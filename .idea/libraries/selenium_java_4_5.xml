@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="selenium-java-4.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/chromedriver_win32" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-4.5.0" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-4.5.0/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-4.5.0" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.5.0" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.5.0/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.5.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
